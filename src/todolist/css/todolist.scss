@@ -1,0 +1,12 @@
+@import "~foundation-sites/scss/foundation";
+
+@include foundation-everything;
+
+.top-bar {
+  margin-bottom: 1em;
+}
+
+.done-true {
+  text-decoration: line-through;
+  color: grey;
+}
